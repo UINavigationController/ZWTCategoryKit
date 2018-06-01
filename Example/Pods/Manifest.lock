@@ -1,0 +1,16 @@
+PODS:
+  - ZWTCategory (0.1.0)
+
+DEPENDENCIES:
+  - ZWTCategory (from `../`)
+
+EXTERNAL SOURCES:
+  ZWTCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZWTCategory: 1435be8ede7d249ca65a4b69508d2860b3bd63be
+
+PODFILE CHECKSUM: e5ca038e704ea622139a5021fe0e13419e374682
+
+COCOAPODS: 1.5.0

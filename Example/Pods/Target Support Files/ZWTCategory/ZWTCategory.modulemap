@@ -1,0 +1,6 @@
+framework module ZWTCategory {
+  umbrella header "ZWTCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
